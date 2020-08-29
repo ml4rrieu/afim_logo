@@ -24,4 +24,4 @@
 ![symetrie](img/symetrie.png)
 
 #### slow down
-![slow down](img/slow_down.png)
+![slow down](img/slow_down.PNG)
