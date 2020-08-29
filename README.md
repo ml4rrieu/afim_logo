@@ -16,8 +16,8 @@
 
 ## Nouveau logo
 ### A voir
-[] choix du duo de couleurs
-[] présence du sous titre ? 
+[ ] choix du duo de couleurs
+[ ] présence du sous titre ? 
 
 ### Propositions
 #### symetrie 
