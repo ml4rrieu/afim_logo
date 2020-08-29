@@ -28,3 +28,6 @@
 
 #### slow down (avec les 2e couleurs)
 ![slow down](img/slow_down_orange.png)
+
+#### slow down bis
+![slow down](img/slow_down2.png)
