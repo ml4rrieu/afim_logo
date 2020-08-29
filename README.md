@@ -20,8 +20,8 @@
 * présence du sous titre ? 
 
 ### Propositions
-* symetrie
+#### symetrie
 ![ancien logo](img/symetrie.png)
 
-* slow down
+#### slow down
 ![ancien logo](img/slow_down.png)
