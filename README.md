@@ -16,8 +16,8 @@
 
 ## Nouveau logo
 ### A voir
-* choix des 2 couleurs
-* présence du sous titre ? 
+[] choix du duo de couleurs
+[] présence du sous titre ? 
 
 ### Propositions
 #### symetrie 
@@ -26,5 +26,5 @@
 #### slow down
 ![slow down](img/slow_down.png)
 
-#### slow down (sur orange)
+#### slow down (avec les 2e couleurs)
 ![slow down](img/slow_down_orange.png)
