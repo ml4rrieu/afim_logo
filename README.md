@@ -21,7 +21,7 @@
 
 ### Propositions
 #### symetrie
-![ancien logo](img/symetrie.png)
+![symetrie](img/symetrie.png)
 
 #### slow down
-![ancien logo](img/slow_down.png)
+![slow down](img/slow_down.png)
