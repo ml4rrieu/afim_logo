@@ -1,5 +1,5 @@
 # Réalisation du logo de l'AFIM
-**documnent de travail**
+*documnent de travail*
 
 ## Ancien Logo
 ![ancien logo](img/old_afim_logo.png)
@@ -13,4 +13,15 @@
 * l'idée de deux couleurs complémentaires
 
 
- 
+
+## Nouveau logo
+### A voir
+* choix des 2 couleurs
+* présence du sous titre ? 
+
+### Propositions
+* symetrie
+![ancien logo](img/symetrie.png)
+
+* slow down
+![ancien logo](img/slow_down.png)
