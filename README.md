@@ -17,11 +17,7 @@
 ## Nouveau logo
 
 ### proposition
-#### alpha
-![yellow to orange alpha](img/version_2_alpha.png)
 
-#### linear
-![yellow to orange](img/version_2.png)
 
 ### Propositions septembre
 #### symetrie 
