@@ -16,7 +16,7 @@
 
 ## Nouveau logo
 
-### proposition
+### propositions
 #### alpha
 ![yellow to orange alpha](img/version_2_alpha.png)
 
