@@ -15,11 +15,15 @@
 
 
 ## Nouveau logo
-### A voir
-- [ ] choix du duo de couleurs
-- [ ] présence du sous titre ? 
 
-### Propositions
+### proposition
+#### alpha
+![yellow to orange alpha](img/version_2_alpha.png)
+
+#### linear
+![yellow to orange](img/version_2.png)
+
+### Propositions septembre
 #### symetrie 
 ![symetrie](img/symetrie.png)
 
